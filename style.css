@@ -48,3 +48,35 @@
     #5D8AA8 0px 0px 50px,
     #5D8AA8 0px 0px 75px;
 }
+
+.rules {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 15px;
+    background-color: #8093A0;
+    border-radius: 5px;
+    box-shadow: #FFF 0px 0px 5px,
+    #FFF 0px 0px 10px,
+    #FFF 0px 0px 15px,
+    #5D8AA8 0px 0px 20px,
+    #5D8AA8 0px 0px 30px,
+    #5D8AA8 0px 0px 40px,
+    #5D8AA8 0px 0px 50px,
+    #5D8AA8 0px 0px 75px;
+}
+
+.rules h2 {
+    text-align: center;
+    color: white;
+}
+
+.rules p {
+    font-size: 18px;
+    text-align: justify;
+}
